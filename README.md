@@ -7,6 +7,6 @@
 
 [&lt;seyahatKitabim&gt;](https://github.com/ozanaydogdu-dh/seyahatKitabim.git)
 
-[&lt;FaceID&gt;](https://github.com/ozanaydogdu-dh/FaceID.git
+[&lt;FaceID&gt;](https://github.com/ozanaydogdu-dh/FaceID.git)
 
 [&lt;DovizPiyasasi&gt;](https://github.com/ozanaydogdu-dh/DovizPiyasasi.git)
