@@ -10,3 +10,9 @@
 [&lt;FaceID&gt;](https://github.com/ozanaydogdu-dh/FaceID.git)
 
 [&lt;DovizPiyasasi&gt;](https://github.com/ozanaydogdu-dh/DovizPiyasasi.git)
+
+
+[&lt;instaCloneFirebase&gt;](https://github.com/ozanaydogdu-dh/instaCloneFirebase.git)
+
+
+
